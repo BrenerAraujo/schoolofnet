@@ -1,0 +1,33 @@
+Introdução
+    O que é PHP?
+    - Acrônimo recursivo para "PHP Hypertext Preprocessor"
+    - Criado em 1994 (dois anos depois que a WEB foi criada) por Rasmus Lerdorf
+    - Amplamente usado para mostrar conteúdo HTML
+
+    Por que usar PHP?
+    - Muito simples e prático de aprender
+    - ~80% da WEB utilizada PHP
+    - Usado por grandes empresas como: Google, Facebook, Intel, Nasa etc
+    - Ótima escolha para iniciar com WEB
+    - Outros
+
+    O que consigo fazer com PHP?
+    - Sites
+    - Sistemas WEB em geral
+    - Lojas virtuais
+    - Sistemas educacionais
+    - Sistemas comerciais
+    - Outros
+
+    Linguagens Cliente VS Linguagens Servidor
+        Browser(Navegador de internet)
+        - HTML
+        - JavaScript
+        - CSS
+
+        Servidor
+        - PHP
+        - Java
+        - Ruby
+        - Python
+        - C#

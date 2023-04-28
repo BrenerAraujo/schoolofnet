@@ -1,0 +1,3 @@
+Dicas para iniciantes com PHP
+    - Zend Interprise está por trás da linguagem PHP no momento, com melhorias etc: www.zend.com
+    - Documentação da linguaguem: www.php.net
