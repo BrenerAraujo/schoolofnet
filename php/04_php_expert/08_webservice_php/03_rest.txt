@@ -1,0 +1,19 @@
+Webservice REST
+
+- Representational state transfer (Transferência de estado representacional)
+- Proposto por Roy Fielding em 2000
+- É uma arquitetura
+- Uniformar o uso do HTTP
+- Padronizar uma interface para gerência de recursos
+- Manipular recursos por troca de representacional de estados
+
+Mais sobre REST
+- Significado de uso para verbo HTTP: GET, POST, PUT, DELETE, PATCH, OPTIONS etc
+- Media-types
+- Domínio de JSON e XML na troca de mensagens (principalmente JSON)
+- Não mantém estado
+    O webservice não consegue saber de onde veio a solicitação HTTP, por tanto temos que fazer algo para limitar essas solicitações, caso seja algo confidencial
+- Hypermedia
+- Padronização de acesso aos recursos através de URI 
+- Status code e error
+    A aplicação tem que disponibilizar quando acontecer um erro. Explicar o que aconteceu para o usuário conseguir contornar o mesmo

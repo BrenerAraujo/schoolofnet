@@ -1,0 +1,28 @@
+Links para os webservices
+- www.myapp.com/api/vendas/clientes
+    "www.myapp.com/api/" = Endereço da API 
+    "vendas/"            = Nome da API 
+    "clientes"           = Recurso
+
+- www.api.myapp.com/vendas/clientes
+    "www.api.myapp.com/" = Endereço da API 
+    "vendas/"            = Nome da API 
+    "clientes"           = Recurso
+
+- www.api.myapp.com/v1/vendas/clientes
+    "www.api.myapp.com/v1/" = Endereço da API 
+    "vendas/"               = Nome da API 
+    "clientes"              = Recurso
+
+API RESTful
+
+GET     - Consultas informações          - Seguro     - GET/clientes
+POST    - Criar um novo recurso          - Não seguro - POST/pedidos
+PUT     - Atualizar um recurso existente - Não seguro - PUT/pedidos/2320
+DELETE  - Excluir um recurso existente   - Não seguro - DELETE/pedidos/4060
+OPTIONS - Consultar informações na API   - Seguro     - OPTIONS/clientes
+
+POST com identificador pode Atualizar
+PUT sem identificador pode criar um novo item
+OPTIONS serve para saber quais verbos eu posso usar na API
+Seguro = Não vai fazer alteração de informação (não significa que seja seguro de invasão etc)

@@ -1,0 +1,9 @@
+Webservices x Api 
+
+- API é um grupo de rotinas, protocolos e métodos que permite a comunicação entre aplicações.
+- Um Webservice é uma API
+- Nem toda API é um Webservice, ex: BIOS, DOM, Core do PHP etc
+- Webservice está ligado a HTTP, REST, SOAP, XML-RPC
+
+- API é algo amplo
+- Webservice é uma API voltada para web 

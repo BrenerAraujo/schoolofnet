@@ -1,0 +1,21 @@
+Por que webservices?
+- Comunicação entre aplicações
+    Maneira de conversar com outras aplicações, podendo ser da mesma linguagem ou não.
+- Interação entre diferentes plataformas
+    Podemos pegar dados dos correios, google etc
+- Aplicações como serviços
+- Acessibilidade e disponibilidade de informações
+- Aplicações independentes
+- Interpolaridade
+
+Exemplos
+- Informações públicas
+    Nós conseguimos acessar informações de aplicações públicas, como processos de tribunais etc
+- Redes Sociais
+    Fazer login com facebook em outras plataformas
+- Negócios
+- Serviços 
+- Logística
+- Mobile
+- Internet das coisas: Geladeira, cadeira, veículo
+- Outros
